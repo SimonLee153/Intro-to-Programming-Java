@@ -28,7 +28,7 @@ package JavaProgramming.C01;
  *
  ******************************************************************************/
 
-public class Binary {
+public class p3_7Binary {
     public static void main(String[] args) {
 
         // read in the command-line argument

@@ -18,7 +18,7 @@ package JavaProgramming.C01;
  *
  ******************************************************************************/
 
-public class Flip {
+public class p3_1Flip {
 
     public static void main(String[] args) {
 

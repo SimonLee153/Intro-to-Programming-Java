@@ -21,7 +21,7 @@ package JavaProgramming.C01;
  *
  ******************************************************************************/
 
-public class RandomInt {
+public class p2_5RandomInt {
     public static void main(String[] args) {
         // a positive integer
         int n = Integer.parseInt(args[0]);

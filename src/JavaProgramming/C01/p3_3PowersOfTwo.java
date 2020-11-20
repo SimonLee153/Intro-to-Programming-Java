@@ -30,7 +30,7 @@ package JavaProgramming.C01;
  *
  ******************************************************************************/
 
-public class PowersOfTwo {
+public class p3_3PowersOfTwo {
     public static void main(String[] args) {
 
         // read in one command-line argument

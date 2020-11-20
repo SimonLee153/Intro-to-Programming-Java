@@ -18,7 +18,7 @@ package JavaProgramming.C01;
  *
  ******************************************************************************/
 
-public class LeapYear {
+public class p2_4LeapYear {
     public static void main(String[] args) {
         int year = Integer.parseInt(args[0]);
         boolean isLeapYear;

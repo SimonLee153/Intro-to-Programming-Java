@@ -22,7 +22,7 @@ package JavaProgramming.C01;
  *
  ******************************************************************************/
 
-public class IntOps {
+public class p2_2IntOps {
 
     public static void main(String[] args) {
         int a = Integer.parseInt(args[0]);

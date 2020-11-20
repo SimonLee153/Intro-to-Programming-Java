@@ -15,7 +15,7 @@ package JavaProgramming.C01;
  *
  ******************************************************************************/
 
-public class Ruler {
+public class p2_1Ruler {
     public static void main(String[] args) {
         String ruler1 = " 1 ";
         String ruler2 = ruler1 + "2" + ruler1;

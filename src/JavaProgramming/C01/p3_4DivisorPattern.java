@@ -32,7 +32,7 @@ package JavaProgramming.C01;
  *
  ******************************************************************************/
 
-public class DivisorPattern {
+public class p3_4DivisorPattern {
 
     public static void main(String[] args) {
         int n = Integer.parseInt(args[0]);

@@ -21,7 +21,7 @@ package JavaProgramming.C01;
  *
  ******************************************************************************/
 
-public class TenHellos {
+public class p3_2TenHellos {
     public static void main(String[] args) {
 
         // print out special cases whose ordinal doesn't end in th

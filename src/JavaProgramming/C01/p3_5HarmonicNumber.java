@@ -17,7 +17,7 @@ package JavaProgramming.C01;
  *
  ******************************************************************************/
 
-public class HarmonicNumber {
+public class p3_5HarmonicNumber {
     public static void main(String[] args) {
 
         // command-line argument

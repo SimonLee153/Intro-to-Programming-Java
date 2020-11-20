@@ -43,7 +43,7 @@ package JavaProgramming.C01;
  *
  ******************************************************************************/
 
-public class Sqrt {
+public class p3_6Sqrt {
     public static void main(String[] args) {
 
         // read in the command-line argument

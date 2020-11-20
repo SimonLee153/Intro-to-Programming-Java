@@ -24,7 +24,7 @@ package JavaProgramming.C01;
  *
  ******************************************************************************/
 
-public class Quadratic {
+public class p2_3Quadratic {
 
     public static void main(String[] args) {
         double b = Double.parseDouble(args[0]);
